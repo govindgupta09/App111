@@ -7,5 +7,11 @@ class Farmer_fillOTP : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_farmer_fill_otp)
+
+
+//        setContentView(R.layout.activity_farmer_fill_otp)
+//        setContentView(R.layout.activity_farmer_fill_otp)
+//        setContentView(R.layout.activity_farmer_fill_otp)
+
     }
 }
